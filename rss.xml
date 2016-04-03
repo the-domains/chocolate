@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chocolate]]></title>
+        <description><![CDATA[Chocolate]]></description>
+        <link>https://thegrid.ai/chocolate/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Apr 2016 17:53:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chocolate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Juro que los brownies me hablan.]]></title>
+            <description><![CDATA[<article><h1>Juro que los brownies me hablan.</h1><p>Chocolov y el idealismo.</p></article>]]></description>
+            <link>https://thegrid.ai/chocolate/juro-que-los-brownies-me-hablan/index.html</link>
+            <guid isPermaLink="false">cb87fddf-2300-4abf-822e-85d600025cb8</guid>
+            <pubDate>Thu, 28 Jan 2016 00:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Para marcas, empresas o emprendedores relacionados con el mundo del chocolate, aquí encuentran un paquete de dominios promocionales en su mayoría .com.</p>]]></description>
+            <link>https://thegrid.ai/chocolate/97898b6e-40fb-420a-b42d-09ad7505f1da/index.html</link>
+            <guid isPermaLink="false">97898b6e-40fb-420a-b42d-09ad7505f1da</guid>
+            <pubDate>Sun, 03 Apr 2016 17:53:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
